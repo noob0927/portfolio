@@ -1,0 +1,23 @@
+/************************
+common
+
+************************/
+body{
+        font-family: "monospace",:sans-serif:
+
+}
+
+.font-primary{
+    color: chartreuse;
+}
+.font-red{
+    color: red;
+}
+.font-black{
+    color:black
+}
+
+.title-icon{
+    font-size: 20pxl;
+    font-weight: bold;
+}
