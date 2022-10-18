@@ -17,6 +17,9 @@ body{
     color:black
 }
 
+.font-orange{
+    color: orange;
+}
 .title-icon{
     font-size: 20pxl;
     font-weight: bold;
